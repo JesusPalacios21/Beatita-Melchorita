@@ -847,3 +847,13 @@ footer .scr {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+html,
+body {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+  overscroll-behavior-x: none;
+}
+.band {
+  overflow-x: clip;
+}
