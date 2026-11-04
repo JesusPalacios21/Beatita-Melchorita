@@ -1,6 +1,6 @@
 (function () {
   var CFG = {
-    wa: "51977964460",
+    wa: "51903361497",
     hero: "img/xdddddddddddd.jpg",
     photos: [
       { p: "img/grupal.jpeg", t: "Nuestra promoción", d: "Inicial 5 años · I.E. Beatita Melchorita" },
