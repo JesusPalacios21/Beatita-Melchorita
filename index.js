@@ -4,8 +4,8 @@
     hero: "img/xdddddddddddd.jpg",
     photos: [
       { p: "img/grupal.jpeg", t: "Nuestra promoción", d: "Inicial 5 años · I.E. Beatita Melchorita" },
-      { p: "img/grupal_playa.jpeg", t: "Pequeños grandes sueños", d: "Amigos para siempre" },
-      { p: "img/grupal_colegio.jpeg", t: "Hasta siempre", d: "Los Angelitos de María 2026" },
+      { p: "img/cambio2.jpg", t: "Pequeños grandes sueños", d: "Amigos para siempre" },
+      { p: "img/cambio1jpg.jpg", t: "Hasta siempre", d: "Los Angelitos de María 2026" },
     ],
   };
 
